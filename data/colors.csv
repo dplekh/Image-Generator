@@ -1,0 +1,221 @@
+id,sku,name,sellingPrice,fullSize,thumbnail,active,published,type
+000000,0000000000,Black,91,https://color-project.surge.sh/colors/000000.jpg,https://color-project.surge.sh/colors/000000.jpg,true,true,PARENT
+000080,0000800000,Navy,56,https://color-project.surge.sh/colors/000080.jpg,https://color-project.surge.sh/colors/000080.jpg,true,true,PARENT
+00008B,00008B0000,DarkBlue,77,https://color-project.surge.sh/colors/00008B.jpg,https://color-project.surge.sh/colors/00008B.jpg,true,true,PARENT
+0000CD,0000CD0000,MediumBlue,73,https://color-project.surge.sh/colors/0000CD.jpg,https://color-project.surge.sh/colors/0000CD.jpg,true,true,PARENT
+0000FF,0000FF0000,Blue,88,https://color-project.surge.sh/colors/0000FF.jpg,https://color-project.surge.sh/colors/0000FF.jpg,true,true,PARENT
+006400,0064000000,DarkGreen,83,https://color-project.surge.sh/colors/006400.jpg,https://color-project.surge.sh/colors/006400.jpg,true,true,PARENT
+008000,0080000000,Green,74,https://color-project.surge.sh/colors/008000.jpg,https://color-project.surge.sh/colors/008000.jpg,true,true,PARENT
+008080,0080800000,Teal,77,https://color-project.surge.sh/colors/008080.jpg,https://color-project.surge.sh/colors/008080.jpg,true,true,PARENT
+008B8B,008B8B0000,DarkCyan,70,https://color-project.surge.sh/colors/008B8B.jpg,https://color-project.surge.sh/colors/008B8B.jpg,true,true,PARENT
+00BFFF,00BFFF0000,DeepSkyBlue,86,https://color-project.surge.sh/colors/00BFFF.jpg,https://color-project.surge.sh/colors/00BFFF.jpg,true,true,PARENT
+00CED1,00CED10000,DarkTurquoise,91,https://color-project.surge.sh/colors/00CED1.jpg,https://color-project.surge.sh/colors/00CED1.jpg,true,true,PARENT
+00FA9A,00FA9A0000,MediumSpringGreen,57,https://color-project.surge.sh/colors/00FA9A.jpg,https://color-project.surge.sh/colors/00FA9A.jpg,true,true,PARENT
+00FF00,00FF000000,Lime,53,https://color-project.surge.sh/colors/00FF00.jpg,https://color-project.surge.sh/colors/00FF00.jpg,true,true,PARENT
+00FF7F,00FF7F0000,SpringGreen,78,https://color-project.surge.sh/colors/00FF7F.jpg,https://color-project.surge.sh/colors/00FF7F.jpg,true,true,PARENT
+00FFFF,00FFFF0000,Cyan,82,https://color-project.surge.sh/colors/00FFFF.jpg,https://color-project.surge.sh/colors/00FFFF.jpg,true,true,PARENT
+191970,1919700000,MidnightBlue,75,https://color-project.surge.sh/colors/191970.jpg,https://color-project.surge.sh/colors/191970.jpg,true,true,PARENT
+1E90FF,1E90FF0000,DodgerBlue,66,https://color-project.surge.sh/colors/1E90FF.jpg,https://color-project.surge.sh/colors/1E90FF.jpg,true,true,PARENT
+20B2AA,20B2AA0000,LightSeaGreen,55,https://color-project.surge.sh/colors/20B2AA.jpg,https://color-project.surge.sh/colors/20B2AA.jpg,true,true,PARENT
+228B22,228B220000,ForestGreen,82,https://color-project.surge.sh/colors/228B22.jpg,https://color-project.surge.sh/colors/228B22.jpg,true,true,PARENT
+2E8B57,2E8B570000,SeaGreen,78,https://color-project.surge.sh/colors/2E8B57.jpg,https://color-project.surge.sh/colors/2E8B57.jpg,true,true,PARENT
+2F4F4F,2F4F4F0000,DarkSlateGrey,74,https://color-project.surge.sh/colors/2F4F4F.jpg,https://color-project.surge.sh/colors/2F4F4F.jpg,true,true,PARENT
+32CD32,32CD320000,LimeGreen,60,https://color-project.surge.sh/colors/32CD32.jpg,https://color-project.surge.sh/colors/32CD32.jpg,true,true,PARENT
+3CB371,3CB3710000,MediumSeaGreen,89,https://color-project.surge.sh/colors/3CB371.jpg,https://color-project.surge.sh/colors/3CB371.jpg,true,true,PARENT
+40E0D0,40E0D00000,Turquoise,79,https://color-project.surge.sh/colors/40E0D0.jpg,https://color-project.surge.sh/colors/40E0D0.jpg,true,true,PARENT
+4169E1,4169E10000,RoyalBlue,77,https://color-project.surge.sh/colors/4169E1.jpg,https://color-project.surge.sh/colors/4169E1.jpg,true,true,PARENT
+4682B4,4682B40000,SteelBlue,92,https://color-project.surge.sh/colors/4682B4.jpg,https://color-project.surge.sh/colors/4682B4.jpg,true,true,PARENT
+483D8B,483D8B0000,DarkSlateBlue,87,https://color-project.surge.sh/colors/483D8B.jpg,https://color-project.surge.sh/colors/483D8B.jpg,true,true,PARENT
+48D1CC,48D1CC0000,MediumTurquoise,75,https://color-project.surge.sh/colors/48D1CC.jpg,https://color-project.surge.sh/colors/48D1CC.jpg,true,true,PARENT
+4B0082,4B00820000,Indigo,78,https://color-project.surge.sh/colors/4B0082.jpg,https://color-project.surge.sh/colors/4B0082.jpg,true,true,PARENT
+556B2F,556B2F0000,DarkOliveGreen,55,https://color-project.surge.sh/colors/556B2F.jpg,https://color-project.surge.sh/colors/556B2F.jpg,true,true,PARENT
+5F9EA0,5F9EA00000,CadetBlue,95,https://color-project.surge.sh/colors/5F9EA0.jpg,https://color-project.surge.sh/colors/5F9EA0.jpg,true,true,PARENT
+6495ED,6495ED0000,CornflowerBlue,58,https://color-project.surge.sh/colors/6495ED.jpg,https://color-project.surge.sh/colors/6495ED.jpg,true,true,PARENT
+663399,6633990000,RebeccaPurple,79,https://color-project.surge.sh/colors/663399.jpg,https://color-project.surge.sh/colors/663399.jpg,true,true,PARENT
+66CDAA,66CDAA0000,MediumAquaMarine,54,https://color-project.surge.sh/colors/66CDAA.jpg,https://color-project.surge.sh/colors/66CDAA.jpg,true,true,PARENT
+696969,6969690000,DimGrey,87,https://color-project.surge.sh/colors/696969.jpg,https://color-project.surge.sh/colors/696969.jpg,true,true,PARENT
+6A5ACD,6A5ACD0000,SlateBlue,58,https://color-project.surge.sh/colors/6A5ACD.jpg,https://color-project.surge.sh/colors/6A5ACD.jpg,true,true,PARENT
+6B8E23,6B8E230000,OliveDrab,59,https://color-project.surge.sh/colors/6B8E23.jpg,https://color-project.surge.sh/colors/6B8E23.jpg,true,true,PARENT
+708090,7080900000,SlateGrey,56,https://color-project.surge.sh/colors/708090.jpg,https://color-project.surge.sh/colors/708090.jpg,true,true,PARENT
+778899,7788990000,LightSlateGrey,57,https://color-project.surge.sh/colors/778899.jpg,https://color-project.surge.sh/colors/778899.jpg,true,true,PARENT
+7B68EE,7B68EE0000,MediumSlateBlue,62,https://color-project.surge.sh/colors/7B68EE.jpg,https://color-project.surge.sh/colors/7B68EE.jpg,true,true,PARENT
+7CFC00,7CFC000000,LawnGreen,79,https://color-project.surge.sh/colors/7CFC00.jpg,https://color-project.surge.sh/colors/7CFC00.jpg,true,true,PARENT
+7FFF00,7FFF000000,Chartreuse,70,https://color-project.surge.sh/colors/7FFF00.jpg,https://color-project.surge.sh/colors/7FFF00.jpg,true,true,PARENT
+7FFFD4,7FFFD40000,Aquamarine,64,https://color-project.surge.sh/colors/7FFFD4.jpg,https://color-project.surge.sh/colors/7FFFD4.jpg,true,true,PARENT
+800000,8000000000,Maroon,90,https://color-project.surge.sh/colors/800000.jpg,https://color-project.surge.sh/colors/800000.jpg,true,true,PARENT
+800080,8000800000,Purple,89,https://color-project.surge.sh/colors/800080.jpg,https://color-project.surge.sh/colors/800080.jpg,true,true,PARENT
+808000,8080000000,Olive,97,https://color-project.surge.sh/colors/808000.jpg,https://color-project.surge.sh/colors/808000.jpg,true,true,PARENT
+808080,8080800000,Grey,98,https://color-project.surge.sh/colors/808080.jpg,https://color-project.surge.sh/colors/808080.jpg,true,true,PARENT
+87CEEB,87CEEB0000,SkyBlue,76,https://color-project.surge.sh/colors/87CEEB.jpg,https://color-project.surge.sh/colors/87CEEB.jpg,true,true,PARENT
+87CEFA,87CEFA0000,LightSkyBlue,76,https://color-project.surge.sh/colors/87CEFA.jpg,https://color-project.surge.sh/colors/87CEFA.jpg,true,true,PARENT
+8A2BE2,8A2BE20000,BlueViolet,85,https://color-project.surge.sh/colors/8A2BE2.jpg,https://color-project.surge.sh/colors/8A2BE2.jpg,true,true,PARENT
+8B0000,8B00000000,DarkRed,92,https://color-project.surge.sh/colors/8B0000.jpg,https://color-project.surge.sh/colors/8B0000.jpg,true,true,PARENT
+8B008B,8B008B0000,DarkMagenta,85,https://color-project.surge.sh/colors/8B008B.jpg,https://color-project.surge.sh/colors/8B008B.jpg,true,true,PARENT
+8B4513,8B45130000,SaddleBrown,60,https://color-project.surge.sh/colors/8B4513.jpg,https://color-project.surge.sh/colors/8B4513.jpg,true,true,PARENT
+8FBC8F,8FBC8F0000,DarkSeaGreen,59,https://color-project.surge.sh/colors/8FBC8F.jpg,https://color-project.surge.sh/colors/8FBC8F.jpg,true,true,PARENT
+90EE90,90EE900000,LightGreen,59,https://color-project.surge.sh/colors/90EE90.jpg,https://color-project.surge.sh/colors/90EE90.jpg,true,true,PARENT
+9370DB,9370DB0000,MediumPurple,66,https://color-project.surge.sh/colors/9370DB.jpg,https://color-project.surge.sh/colors/9370DB.jpg,true,true,PARENT
+9400D3,9400D30000,DarkViolet,88,https://color-project.surge.sh/colors/9400D3.jpg,https://color-project.surge.sh/colors/9400D3.jpg,true,true,PARENT
+98FB98,98FB980000,PaleGreen,83,https://color-project.surge.sh/colors/98FB98.jpg,https://color-project.surge.sh/colors/98FB98.jpg,true,true,PARENT
+9932CC,9932CC0000,DarkOrchid,93,https://color-project.surge.sh/colors/9932CC.jpg,https://color-project.surge.sh/colors/9932CC.jpg,true,true,PARENT
+9ACD32,9ACD320000,YellowGreen,53,https://color-project.surge.sh/colors/9ACD32.jpg,https://color-project.surge.sh/colors/9ACD32.jpg,true,true,PARENT
+A0522D,A0522D0000,Sienna,81,https://color-project.surge.sh/colors/A0522D.jpg,https://color-project.surge.sh/colors/A0522D.jpg,true,true,PARENT
+A52A2A,A52A2A0000,Brown,91,https://color-project.surge.sh/colors/A52A2A.jpg,https://color-project.surge.sh/colors/A52A2A.jpg,true,true,PARENT
+A9A9A9,A9A9A90000,DarkGrey,91,https://color-project.surge.sh/colors/A9A9A9.jpg,https://color-project.surge.sh/colors/A9A9A9.jpg,true,true,PARENT
+ADD8E6,ADD8E60000,LightBlue,62,https://color-project.surge.sh/colors/ADD8E6.jpg,https://color-project.surge.sh/colors/ADD8E6.jpg,true,true,PARENT
+ADFF2F,ADFF2F0000,GreenYellow,52,https://color-project.surge.sh/colors/ADFF2F.jpg,https://color-project.surge.sh/colors/ADFF2F.jpg,true,true,PARENT
+AFEEEE,AFEEEE0000,PaleTurquoise,86,https://color-project.surge.sh/colors/AFEEEE.jpg,https://color-project.surge.sh/colors/AFEEEE.jpg,true,true,PARENT
+B0C4DE,B0C4DE0000,LightSteelBlue,84,https://color-project.surge.sh/colors/B0C4DE.jpg,https://color-project.surge.sh/colors/B0C4DE.jpg,true,true,PARENT
+B0E0E6,B0E0E60000,PowderBlue,91,https://color-project.surge.sh/colors/B0E0E6.jpg,https://color-project.surge.sh/colors/B0E0E6.jpg,true,true,PARENT
+B22222,B222220000,FireBrick,81,https://color-project.surge.sh/colors/B22222.jpg,https://color-project.surge.sh/colors/B22222.jpg,true,true,PARENT
+B8860B,B8860B0000,DarkGoldenRod,78,https://color-project.surge.sh/colors/B8860B.jpg,https://color-project.surge.sh/colors/B8860B.jpg,true,true,PARENT
+BA55D3,BA55D30000,MediumOrchid,72,https://color-project.surge.sh/colors/BA55D3.jpg,https://color-project.surge.sh/colors/BA55D3.jpg,true,true,PARENT
+BC8F8F,BC8F8F0000,RosyBrown,88,https://color-project.surge.sh/colors/BC8F8F.jpg,https://color-project.surge.sh/colors/BC8F8F.jpg,true,true,PARENT
+BDB76B,BDB76B0000,DarkKhaki,88,https://color-project.surge.sh/colors/BDB76B.jpg,https://color-project.surge.sh/colors/BDB76B.jpg,true,true,PARENT
+C0C0C0,C0C0C00000,Silver,98,https://color-project.surge.sh/colors/C0C0C0.jpg,https://color-project.surge.sh/colors/C0C0C0.jpg,true,true,PARENT
+C71585,C715850000,MediumVioletRed,82,https://color-project.surge.sh/colors/C71585.jpg,https://color-project.surge.sh/colors/C71585.jpg,true,true,PARENT
+CD5C5C,CD5C5C0000,IndianRed,91,https://color-project.surge.sh/colors/CD5C5C.jpg,https://color-project.surge.sh/colors/CD5C5C.jpg,true,true,PARENT
+CD853F,CD853F0000,Peru,83,https://color-project.surge.sh/colors/CD853F.jpg,https://color-project.surge.sh/colors/CD853F.jpg,true,true,PARENT
+D2691E,D2691E0000,Chocolate,65,https://color-project.surge.sh/colors/D2691E.jpg,https://color-project.surge.sh/colors/D2691E.jpg,true,true,PARENT
+D2B48C,D2B48C0000,Tan,94,https://color-project.surge.sh/colors/D2B48C.jpg,https://color-project.surge.sh/colors/D2B48C.jpg,true,true,PARENT
+D3D3D3,D3D3D30000,LightGrey,90,https://color-project.surge.sh/colors/D3D3D3.jpg,https://color-project.surge.sh/colors/D3D3D3.jpg,true,true,PARENT
+D8BFD8,D8BFD80000,Thistle,53,https://color-project.surge.sh/colors/D8BFD8.jpg,https://color-project.surge.sh/colors/D8BFD8.jpg,true,true,PARENT
+DA70D6,DA70D60000,Orchid,91,https://color-project.surge.sh/colors/DA70D6.jpg,https://color-project.surge.sh/colors/DA70D6.jpg,true,true,PARENT
+DAA520,DAA5200000,GoldenRod,76,https://color-project.surge.sh/colors/DAA520.jpg,https://color-project.surge.sh/colors/DAA520.jpg,true,true,PARENT
+DB7093,DB70930000,PaleVioletRed,80,https://color-project.surge.sh/colors/DB7093.jpg,https://color-project.surge.sh/colors/DB7093.jpg,true,true,PARENT
+DC143C,DC143C0000,Crimson,89,https://color-project.surge.sh/colors/DC143C.jpg,https://color-project.surge.sh/colors/DC143C.jpg,true,true,PARENT
+DCDCDC,DCDCDC0000,Gainsboro,87,https://color-project.surge.sh/colors/DCDCDC.jpg,https://color-project.surge.sh/colors/DCDCDC.jpg,true,true,PARENT
+DDA0DD,DDA0DD0000,Plum,88,https://color-project.surge.sh/colors/DDA0DD.jpg,https://color-project.surge.sh/colors/DDA0DD.jpg,true,true,PARENT
+DEB887,DEB8870000,BurlyWood,65,https://color-project.surge.sh/colors/DEB887.jpg,https://color-project.surge.sh/colors/DEB887.jpg,true,true,PARENT
+E0FFFF,E0FFFF0000,LightCyan,99,https://color-project.surge.sh/colors/E0FFFF.jpg,https://color-project.surge.sh/colors/E0FFFF.jpg,true,true,PARENT
+E6E6FA,E6E6FA0000,Lavender,94,https://color-project.surge.sh/colors/E6E6FA.jpg,https://color-project.surge.sh/colors/E6E6FA.jpg,true,true,PARENT
+E9967A,E9967A0000,DarkSalmon,73,https://color-project.surge.sh/colors/E9967A.jpg,https://color-project.surge.sh/colors/E9967A.jpg,true,true,PARENT
+EE82EE,EE82EE0000,Violet,56,https://color-project.surge.sh/colors/EE82EE.jpg,https://color-project.surge.sh/colors/EE82EE.jpg,true,true,PARENT
+EEE8AA,EEE8AA0000,PaleGoldenRod,77,https://color-project.surge.sh/colors/EEE8AA.jpg,https://color-project.surge.sh/colors/EEE8AA.jpg,true,true,PARENT
+F08080,F080800000,LightCoral,76,https://color-project.surge.sh/colors/F08080.jpg,https://color-project.surge.sh/colors/F08080.jpg,true,true,PARENT
+F0E68C,F0E68C0000,Khaki,54,https://color-project.surge.sh/colors/F0E68C.jpg,https://color-project.surge.sh/colors/F0E68C.jpg,true,true,PARENT
+F0F8FF,F0F8FF0000,AliceBlue,98,https://color-project.surge.sh/colors/F0F8FF.jpg,https://color-project.surge.sh/colors/F0F8FF.jpg,true,true,PARENT
+F0FFF0,F0FFF00000,HoneyDew,66,https://color-project.surge.sh/colors/F0FFF0.jpg,https://color-project.surge.sh/colors/F0FFF0.jpg,true,true,PARENT
+F0FFFF,F0FFFF0000,Azure,89,https://color-project.surge.sh/colors/F0FFFF.jpg,https://color-project.surge.sh/colors/F0FFFF.jpg,true,true,PARENT
+F4A460,F4A4600000,SandyBrown,61,https://color-project.surge.sh/colors/F4A460.jpg,https://color-project.surge.sh/colors/F4A460.jpg,true,true,PARENT
+F5DEB3,F5DEB30000,Wheat,70,https://color-project.surge.sh/colors/F5DEB3.jpg,https://color-project.surge.sh/colors/F5DEB3.jpg,true,true,PARENT
+F5F5DC,F5F5DC0000,Beige,93,https://color-project.surge.sh/colors/F5F5DC.jpg,https://color-project.surge.sh/colors/F5F5DC.jpg,true,true,PARENT
+F5F5F5,F5F5F50000,WhiteSmoke,58,https://color-project.surge.sh/colors/F5F5F5.jpg,https://color-project.surge.sh/colors/F5F5F5.jpg,true,true,PARENT
+F5FFFA,F5FFFA0000,MintCream,76,https://color-project.surge.sh/colors/F5FFFA.jpg,https://color-project.surge.sh/colors/F5FFFA.jpg,true,true,PARENT
+F8F8FF,F8F8FF0000,GhostWhite,67,https://color-project.surge.sh/colors/F8F8FF.jpg,https://color-project.surge.sh/colors/F8F8FF.jpg,true,true,PARENT
+FA8072,FA80720000,Salmon,62,https://color-project.surge.sh/colors/FA8072.jpg,https://color-project.surge.sh/colors/FA8072.jpg,true,true,PARENT
+FAEBD7,FAEBD70000,AntiqueWhite,97,https://color-project.surge.sh/colors/FAEBD7.jpg,https://color-project.surge.sh/colors/FAEBD7.jpg,true,true,PARENT
+FAF0E6,FAF0E60000,Linen,53,https://color-project.surge.sh/colors/FAF0E6.jpg,https://color-project.surge.sh/colors/FAF0E6.jpg,true,true,PARENT
+FAFAD2,FAFAD20000,LightGoldenRodYellow,87,https://color-project.surge.sh/colors/FAFAD2.jpg,https://color-project.surge.sh/colors/FAFAD2.jpg,true,true,PARENT
+FDF5E6,FDF5E60000,OldLace,72,https://color-project.surge.sh/colors/FDF5E6.jpg,https://color-project.surge.sh/colors/FDF5E6.jpg,true,true,PARENT
+FF0000,FF00000000,Red,64,https://color-project.surge.sh/colors/FF0000.jpg,https://color-project.surge.sh/colors/FF0000.jpg,true,true,PARENT
+FF00FF,FF00FF0000,Magenta,70,https://color-project.surge.sh/colors/FF00FF.jpg,https://color-project.surge.sh/colors/FF00FF.jpg,true,true,PARENT
+FF1493,FF14930000,DeepPink,51,https://color-project.surge.sh/colors/FF1493.jpg,https://color-project.surge.sh/colors/FF1493.jpg,true,true,PARENT
+FF4500,FF45000000,OrangeRed,99,https://color-project.surge.sh/colors/FF4500.jpg,https://color-project.surge.sh/colors/FF4500.jpg,true,true,PARENT
+FF6347,FF63470000,Tomato,78,https://color-project.surge.sh/colors/FF6347.jpg,https://color-project.surge.sh/colors/FF6347.jpg,true,true,PARENT
+FF69B4,FF69B40000,HotPink,99,https://color-project.surge.sh/colors/FF69B4.jpg,https://color-project.surge.sh/colors/FF69B4.jpg,true,true,PARENT
+FF7F50,FF7F500000,Coral,65,https://color-project.surge.sh/colors/FF7F50.jpg,https://color-project.surge.sh/colors/FF7F50.jpg,true,true,PARENT
+FF8C00,FF8C000000,DarkOrange,57,https://color-project.surge.sh/colors/FF8C00.jpg,https://color-project.surge.sh/colors/FF8C00.jpg,true,true,PARENT
+FFA07A,FFA07A0000,LightSalmon,55,https://color-project.surge.sh/colors/FFA07A.jpg,https://color-project.surge.sh/colors/FFA07A.jpg,true,true,PARENT
+FFA500,FFA5000000,Orange,54,https://color-project.surge.sh/colors/FFA500.jpg,https://color-project.surge.sh/colors/FFA500.jpg,true,true,PARENT
+FFB6C1,FFB6C10000,LightPink,55,https://color-project.surge.sh/colors/FFB6C1.jpg,https://color-project.surge.sh/colors/FFB6C1.jpg,true,true,PARENT
+FFC0CB,FFC0CB0000,Pink,78,https://color-project.surge.sh/colors/FFC0CB.jpg,https://color-project.surge.sh/colors/FFC0CB.jpg,true,true,PARENT
+FFD700,FFD7000000,Gold,77,https://color-project.surge.sh/colors/FFD700.jpg,https://color-project.surge.sh/colors/FFD700.jpg,true,true,PARENT
+FFDAB9,FFDAB90000,PeachPuff,87,https://color-project.surge.sh/colors/FFDAB9.jpg,https://color-project.surge.sh/colors/FFDAB9.jpg,true,true,PARENT
+FFDEAD,FFDEAD0000,NavajoWhite,97,https://color-project.surge.sh/colors/FFDEAD.jpg,https://color-project.surge.sh/colors/FFDEAD.jpg,true,true,PARENT
+FFE4B5,FFE4B50000,Moccasin,54,https://color-project.surge.sh/colors/FFE4B5.jpg,https://color-project.surge.sh/colors/FFE4B5.jpg,true,true,PARENT
+FFE4C4,FFE4C40000,Bisque,95,https://color-project.surge.sh/colors/FFE4C4.jpg,https://color-project.surge.sh/colors/FFE4C4.jpg,true,true,PARENT
+FFE4E1,FFE4E10000,MistyRose,75,https://color-project.surge.sh/colors/FFE4E1.jpg,https://color-project.surge.sh/colors/FFE4E1.jpg,true,true,PARENT
+FFEBCD,FFEBCD0000,BlanchedAlmond,55,https://color-project.surge.sh/colors/FFEBCD.jpg,https://color-project.surge.sh/colors/FFEBCD.jpg,true,true,PARENT
+FFEFD5,FFEFD50000,PapayaWhip,61,https://color-project.surge.sh/colors/FFEFD5.jpg,https://color-project.surge.sh/colors/FFEFD5.jpg,true,true,PARENT
+FFF0F5,FFF0F50000,LavenderBlush,76,https://color-project.surge.sh/colors/FFF0F5.jpg,https://color-project.surge.sh/colors/FFF0F5.jpg,true,true,PARENT
+FFF5EE,FFF5EE0000,SeaShell,50,https://color-project.surge.sh/colors/FFF5EE.jpg,https://color-project.surge.sh/colors/FFF5EE.jpg,true,true,PARENT
+FFF8DC,FFF8DC0000,Cornsilk,86,https://color-project.surge.sh/colors/FFF8DC.jpg,https://color-project.surge.sh/colors/FFF8DC.jpg,true,true,PARENT
+FFFACD,FFFACD0000,LemonChiffon,60,https://color-project.surge.sh/colors/FFFACD.jpg,https://color-project.surge.sh/colors/FFFACD.jpg,true,true,PARENT
+FFFAF0,FFFAF00000,FloralWhite,62,https://color-project.surge.sh/colors/FFFAF0.jpg,https://color-project.surge.sh/colors/FFFAF0.jpg,true,true,PARENT
+FFFAFA,FFFAFA0000,Snow,81,https://color-project.surge.sh/colors/FFFAFA.jpg,https://color-project.surge.sh/colors/FFFAFA.jpg,true,true,PARENT
+FFFF00,FFFF000000,Yellow,73,https://color-project.surge.sh/colors/FFFF00.jpg,https://color-project.surge.sh/colors/FFFF00.jpg,true,true,PARENT
+FFFFE0,FFFFE00000,LightYellow,77,https://color-project.surge.sh/colors/FFFFE0.jpg,https://color-project.surge.sh/colors/FFFFE0.jpg,true,true,PARENT
+FFFFF0,FFFFF00000,Ivory,70,https://color-project.surge.sh/colors/FFFFF0.jpg,https://color-project.surge.sh/colors/FFFFF0.jpg,true,true,PARENT
+FFFFFF,FFFFFF0000,White,51,https://color-project.surge.sh/colors/FFFFFF.jpg,https://color-project.surge.sh/colors/FFFFFF.jpg,true,true,PARENT
+241C1C,241C1C0000,Rough Coal 0,96,https://color-project.surge.sh/colors/241C1C.jpg,https://color-project.surge.sh/colors/241C1C.jpg,true,true,REGULAR
+322726,3227260000,Rough Coal 1,86,https://color-project.surge.sh/colors/322726.jpg,https://color-project.surge.sh/colors/322726.jpg,true,true,REGULAR
+443533,4435330000,Rough Coal 2,51,https://color-project.surge.sh/colors/443533.jpg,https://color-project.surge.sh/colors/443533.jpg,true,true,REGULAR
+6A5A4E,6A5A4E0000,Rough Coal 3,50,https://color-project.surge.sh/colors/6A5A4E.jpg,https://color-project.surge.sh/colors/6A5A4E.jpg,true,true,REGULAR
+796A58,796A580000,Rough Coal 4,98,https://color-project.surge.sh/colors/796A58.jpg,https://color-project.surge.sh/colors/796A58.jpg,true,true,REGULAR
+462D24,462D240000,Soft Earth 5,88,https://color-project.surge.sh/colors/462D24.jpg,https://color-project.surge.sh/colors/462D24.jpg,true,true,REGULAR
+52352A,52352A0000,Soft Earth 6,69,https://color-project.surge.sh/colors/52352A.jpg,https://color-project.surge.sh/colors/52352A.jpg,true,true,REGULAR
+5D392A,5D392A0000,Soft Earth 7,82,https://color-project.surge.sh/colors/5D392A.jpg,https://color-project.surge.sh/colors/5D392A.jpg,true,true,REGULAR
+68402F,68402F0000,Soft Earth 8,82,https://color-project.surge.sh/colors/68402F.jpg,https://color-project.surge.sh/colors/68402F.jpg,true,true,REGULAR
+7A4830,7A48300000,Soft Earth 9,70,https://color-project.surge.sh/colors/7A4830.jpg,https://color-project.surge.sh/colors/7A4830.jpg,true,true,REGULAR
+885735,8857350000,Soft Earth 10,93,https://color-project.surge.sh/colors/885735.jpg,https://color-project.surge.sh/colors/885735.jpg,true,true,REGULAR
+976538,9765380000,Soft Earth 11,75,https://color-project.surge.sh/colors/976538.jpg,https://color-project.surge.sh/colors/976538.jpg,true,true,REGULAR
+A3743B,A3743B0000,Soft Earth 12,95,https://color-project.surge.sh/colors/A3743B.jpg,https://color-project.surge.sh/colors/A3743B.jpg,true,true,REGULAR
+AF873E,AF873E0000,Soft Earth 13,64,https://color-project.surge.sh/colors/AF873E.jpg,https://color-project.surge.sh/colors/AF873E.jpg,true,true,REGULAR
+7E625E,7E625E0000,Hard Metal 14,86,https://color-project.surge.sh/colors/7E625E.jpg,https://color-project.surge.sh/colors/7E625E.jpg,true,true,REGULAR
+8C7168,8C71680000,Hard Metal 15,84,https://color-project.surge.sh/colors/8C7168.jpg,https://color-project.surge.sh/colors/8C7168.jpg,true,true,REGULAR
+9D8275,9D82750000,Hard Metal 16,97,https://color-project.surge.sh/colors/9D8275.jpg,https://color-project.surge.sh/colors/9D8275.jpg,true,true,REGULAR
+A9917E,A9917E0000,Hard Metal 17,95,https://color-project.surge.sh/colors/A9917E.jpg,https://color-project.surge.sh/colors/A9917E.jpg,true,true,REGULAR
+817B60,817B600000,Piquant Olive 18,73,https://color-project.surge.sh/colors/817B60.jpg,https://color-project.surge.sh/colors/817B60.jpg,true,true,REGULAR
+958E6F,958E6F0000,Piquant Olive 19,74,https://color-project.surge.sh/colors/958E6F.jpg,https://color-project.surge.sh/colors/958E6F.jpg,true,true,REGULAR
+A9A37E,A9A37E0000,Piquant Olive 20,81,https://color-project.surge.sh/colors/A9A37E.jpg,https://color-project.surge.sh/colors/A9A37E.jpg,true,true,REGULAR
+CCC9AA,CCC9AA0000,Piquant Olive 21,70,https://color-project.surge.sh/colors/CCC9AA.jpg,https://color-project.surge.sh/colors/CCC9AA.jpg,true,true,REGULAR
+CCAFAA,CCAFAA0000,Cold Snow 22,55,https://color-project.surge.sh/colors/CCAFAA.jpg,https://color-project.surge.sh/colors/CCAFAA.jpg,true,true,REGULAR
+D8C0B6,D8C0B60000,Cold Snow 23,55,https://color-project.surge.sh/colors/D8C0B6.jpg,https://color-project.surge.sh/colors/D8C0B6.jpg,true,true,REGULAR
+E3D0C4,E3D0C40000,Cold Snow 24,87,https://color-project.surge.sh/colors/E3D0C4.jpg,https://color-project.surge.sh/colors/E3D0C4.jpg,true,true,REGULAR
+E9DBCC,E9DBCC0000,Cold Snow 25,94,https://color-project.surge.sh/colors/E9DBCC.jpg,https://color-project.surge.sh/colors/E9DBCC.jpg,true,true,REGULAR
+04598F,04598F0000,Clear Water 26,67,https://color-project.surge.sh/colors/04598F.jpg,https://color-project.surge.sh/colors/04598F.jpg,true,true,REGULAR
+046397,0463970000,Clear Water 27,84,https://color-project.surge.sh/colors/046397.jpg,https://color-project.surge.sh/colors/046397.jpg,true,true,REGULAR
+046CA5,046CA50000,Clear Water 28,98,https://color-project.surge.sh/colors/046CA5.jpg,https://color-project.surge.sh/colors/046CA5.jpg,true,true,REGULAR
+0480A4,0480A40000,Clear Water 29,72,https://color-project.surge.sh/colors/0480A4.jpg,https://color-project.surge.sh/colors/0480A4.jpg,true,true,REGULAR
+1398A9,1398A90000,Clear Water 30,75,https://color-project.surge.sh/colors/1398A9.jpg,https://color-project.surge.sh/colors/1398A9.jpg,true,true,REGULAR
+26A4AD,26A4AD0000,Clear Water 31,51,https://color-project.surge.sh/colors/26A4AD.jpg,https://color-project.surge.sh/colors/26A4AD.jpg,true,true,REGULAR
+36B4B0,36B4B00000,Clear Water 32,93,https://color-project.surge.sh/colors/36B4B0.jpg,https://color-project.surge.sh/colors/36B4B0.jpg,true,true,REGULAR
+4DC4B1,4DC4B10000,Clear Water 33,66,https://color-project.surge.sh/colors/4DC4B1.jpg,https://color-project.surge.sh/colors/4DC4B1.jpg,true,true,REGULAR
+54DEB2,54DEB20000,Clear Water 34,92,https://color-project.surge.sh/colors/54DEB2.jpg,https://color-project.surge.sh/colors/54DEB2.jpg,true,true,REGULAR
+553A47,553A470000,Hot Flame 35,54,https://color-project.surge.sh/colors/553A47.jpg,https://color-project.surge.sh/colors/553A47.jpg,true,true,REGULAR
+784452,7844520000,Hot Flame 36,50,https://color-project.surge.sh/colors/784452.jpg,https://color-project.surge.sh/colors/784452.jpg,true,true,REGULAR
+904851,9048510000,Hot Flame 37,85,https://color-project.surge.sh/colors/904851.jpg,https://color-project.surge.sh/colors/904851.jpg,true,true,REGULAR
+A84E4E,A84E4E0000,Hot Flame 38,91,https://color-project.surge.sh/colors/A84E4E.jpg,https://color-project.surge.sh/colors/A84E4E.jpg,true,true,REGULAR
+C1604D,C1604D0000,Hot Flame 39,67,https://color-project.surge.sh/colors/C1604D.jpg,https://color-project.surge.sh/colors/C1604D.jpg,true,true,REGULAR
+D47055,D470550000,Hot Flame 40,83,https://color-project.surge.sh/colors/D47055.jpg,https://color-project.surge.sh/colors/D47055.jpg,true,true,REGULAR
+59313B,59313B0000,Roasted Cocoa Bean 41,90,https://color-project.surge.sh/colors/59313B.jpg,https://color-project.surge.sh/colors/59313B.jpg,true,true,REGULAR
+6F393A,6F393A0000,Roasted Cocoa Bean 42,52,https://color-project.surge.sh/colors/6F393A.jpg,https://color-project.surge.sh/colors/6F393A.jpg,true,true,REGULAR
+80483D,80483D0000,Roasted Cocoa Bean 43,69,https://color-project.surge.sh/colors/80483D.jpg,https://color-project.surge.sh/colors/80483D.jpg,true,true,REGULAR
+93573F,93573F0000,Roasted Cocoa Bean 44,81,https://color-project.surge.sh/colors/93573F.jpg,https://color-project.surge.sh/colors/93573F.jpg,true,true,REGULAR
+A36A41,A36A410000,Roasted Cocoa Bean 45,92,https://color-project.surge.sh/colors/A36A41.jpg,https://color-project.surge.sh/colors/A36A41.jpg,true,true,REGULAR
+B28142,B281420000,Roasted Cocoa Bean 46,53,https://color-project.surge.sh/colors/B28142.jpg,https://color-project.surge.sh/colors/B28142.jpg,true,true,REGULAR
+843C35,843C350000,Tropical Wood 47,70,https://color-project.surge.sh/colors/843C35.jpg,https://color-project.surge.sh/colors/843C35.jpg,true,true,REGULAR
+9C4C3D,9C4C3D0000,Tropical Wood 48,84,https://color-project.surge.sh/colors/9C4C3D.jpg,https://color-project.surge.sh/colors/9C4C3D.jpg,true,true,REGULAR
+AD6143,AD61430000,Tropical Wood 49,50,https://color-project.surge.sh/colors/AD6143.jpg,https://color-project.surge.sh/colors/AD6143.jpg,true,true,REGULAR
+BA7845,BA78450000,Tropical Wood 50,71,https://color-project.surge.sh/colors/BA7845.jpg,https://color-project.surge.sh/colors/BA7845.jpg,true,true,REGULAR
+C99147,C991470000,Tropical Wood 51,70,https://color-project.surge.sh/colors/C99147.jpg,https://color-project.surge.sh/colors/C99147.jpg,true,true,REGULAR
+A26846,A268460000,Fine Sand 52,93,https://color-project.surge.sh/colors/A26846.jpg,https://color-project.surge.sh/colors/A26846.jpg,true,true,REGULAR
+B67D4F,B67D4F0000,Fine Sand 53,95,https://color-project.surge.sh/colors/B67D4F.jpg,https://color-project.surge.sh/colors/B67D4F.jpg,true,true,REGULAR
+BF8953,BF89530000,Fine Sand 54,88,https://color-project.surge.sh/colors/BF8953.jpg,https://color-project.surge.sh/colors/BF8953.jpg,true,true,REGULAR
+C59759,C597590000,Fine Sand 55,57,https://color-project.surge.sh/colors/C59759.jpg,https://color-project.surge.sh/colors/C59759.jpg,true,true,REGULAR
+CBA65B,CBA65B0000,Fine Sand 56,98,https://color-project.surge.sh/colors/CBA65B.jpg,https://color-project.surge.sh/colors/CBA65B.jpg,true,true,REGULAR
+945F3C,945F3C0000,Sweet Banana 57,79,https://color-project.surge.sh/colors/945F3C.jpg,https://color-project.surge.sh/colors/945F3C.jpg,true,true,REGULAR
+B28143,B281430000,Sweet Banana 58,71,https://color-project.surge.sh/colors/B28143.jpg,https://color-project.surge.sh/colors/B28143.jpg,true,true,REGULAR
+CDA544,CDA5440000,Sweet Banana 59,92,https://color-project.surge.sh/colors/CDA544.jpg,https://color-project.surge.sh/colors/CDA544.jpg,true,true,REGULAR
+ECCF49,ECCF490000,Sweet Banana 60,50,https://color-project.surge.sh/colors/ECCF49.jpg,https://color-project.surge.sh/colors/ECCF49.jpg,true,true,REGULAR
+8D492B,8D492B0000,Calm Sunset 61,59,https://color-project.surge.sh/colors/8D492B.jpg,https://color-project.surge.sh/colors/8D492B.jpg,true,true,REGULAR
+9C522F,9C522F0000,Calm Sunset 62,62,https://color-project.surge.sh/colors/9C522F.jpg,https://color-project.surge.sh/colors/9C522F.jpg,true,true,REGULAR
+AD5E33,AD5E330000,Calm Sunset 63,67,https://color-project.surge.sh/colors/AD5E33.jpg,https://color-project.surge.sh/colors/AD5E33.jpg,true,true,REGULAR
+BF6B3E,BF6B3E0000,Calm Sunset 64,71,https://color-project.surge.sh/colors/BF6B3E.jpg,https://color-project.surge.sh/colors/BF6B3E.jpg,true,true,REGULAR
+CF7B43,CF7B430000,Calm Sunset 65,58,https://color-project.surge.sh/colors/CF7B43.jpg,https://color-project.surge.sh/colors/CF7B43.jpg,true,true,REGULAR
+505B1E,505B1E0000,Living Forest 66,81,https://color-project.surge.sh/colors/505B1E.jpg,https://color-project.surge.sh/colors/505B1E.jpg,true,true,REGULAR
+626B20,626B200000,Living Forest 67,96,https://color-project.surge.sh/colors/626B20.jpg,https://color-project.surge.sh/colors/626B20.jpg,true,true,REGULAR
+777922,7779220000,Living Forest 68,87,https://color-project.surge.sh/colors/777922.jpg,https://color-project.surge.sh/colors/777922.jpg,true,true,REGULAR
+898B23,898B230000,Living Forest 69,82,https://color-project.surge.sh/colors/898B23.jpg,https://color-project.surge.sh/colors/898B23.jpg,true,true,REGULAR
+9D9F28,9D9F280000,Living Forest 70,85,https://color-project.surge.sh/colors/9D9F28.jpg,https://color-project.surge.sh/colors/9D9F28.jpg,true,true,REGULAR
+1F6C6B,1F6C6B0000,Deep Sea 71,50,https://color-project.surge.sh/colors/1F6C6B.jpg,https://color-project.surge.sh/colors/1F6C6B.jpg,true,true,REGULAR
+20806A,20806A0000,Deep Sea 72,76,https://color-project.surge.sh/colors/20806A.jpg,https://color-project.surge.sh/colors/20806A.jpg,true,true,REGULAR
+469870,4698700000,Deep Sea 73,67,https://color-project.surge.sh/colors/469870.jpg,https://color-project.surge.sh/colors/469870.jpg,true,true,REGULAR
+75B47A,75B47A0000,Deep Sea 74,89,https://color-project.surge.sh/colors/75B47A.jpg,https://color-project.surge.sh/colors/75B47A.jpg,true,true,REGULAR
+8CC47B,8CC47B0000,Deep Sea 75,65,https://color-project.surge.sh/colors/8CC47B.jpg,https://color-project.surge.sh/colors/8CC47B.jpg,true,true,REGULAR
+483F50,483F500000,Fresh Wild Berries 76,95,https://color-project.surge.sh/colors/483F50.jpg,https://color-project.surge.sh/colors/483F50.jpg,true,true,REGULAR
+664D6E,664D6E0000,Fresh Wild Berries 77,63,https://color-project.surge.sh/colors/664D6E.jpg,https://color-project.surge.sh/colors/664D6E.jpg,true,true,REGULAR
+7F5583,7F55830000,Fresh Wild Berries 78,92,https://color-project.surge.sh/colors/7F5583.jpg,https://color-project.surge.sh/colors/7F5583.jpg,true,true,REGULAR
+975E95,975E950000,Fresh Wild Berries 79,57,https://color-project.surge.sh/colors/975E95.jpg,https://color-project.surge.sh/colors/975E95.jpg,true,true,REGULAR
+AB629C,AB629C0000,Fresh Wild Berries 80,60,https://color-project.surge.sh/colors/AB629C.jpg,https://color-project.surge.sh/colors/AB629C.jpg,true,true,REGULAR

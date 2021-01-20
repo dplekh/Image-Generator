@@ -1,0 +1,22 @@
+id,name,active,published
+html,HTML,true,true
+htmlWarm,Warm,true,true
+htmlCool,Cool,true,true
+htmlDark,Dark,true,true
+htmlLight,Light,true,true
+lumio,Lumio,true,true
+roughCoal,Rough Coal,true,true
+softEarth,Soft Earth,true,true
+hardMetal,Hard Metal,true,true
+piquantOlive,Piquant Olive,true,true
+coldSnow,Cold Snow,true,true
+clearWater,Clear Water,true,true
+hotFlame,Hot Flame,true,true
+roastedCocoaBean,Roasted Cocoa Bean,true,true
+tropicalWood,Tropical Wood,true,true
+fineSand,Fine Sand,true,true
+sweetBanana,Sweet Banana,true,true
+calmSunset,Calm Sunset,true,true
+livingForest,Living Forest,true,true
+deepSea,Deep Sea,true,true
+freshWildBerries,Fresh Wild Berries,true,true
